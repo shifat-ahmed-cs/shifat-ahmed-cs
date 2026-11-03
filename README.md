@@ -11,7 +11,7 @@
 <!-- Contact & Social Badges -->
 [![Email](https://img.shields.io/badge/shifat.ahmed%40g.bracu.ac.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifat.ahmed@g.bracu.ac.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifat-ahmed-a36ab3448/)
-[![GitHub](https://img.shields.io/badge/GitHub-Shifat%20Ahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/black-panda-42)
+[![GitHub](https://img.shields.io/badge/GitHub-Shifat%20Ahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shifat-ahmed-cs)
 
 </div>
 
@@ -86,11 +86,11 @@ Operating System Kernels ·  Database Storage Engines (B+ Trees)·  Network Prot
 
 ### 🛡️ Applied AI & Cybersecurity Research
 
-#### 🔬 [Adaptive Threat Detection for Cloud CI/CD Pipelines](https://github.com/black-panda-42/Adaptive-Threat-Detection)
+#### 🔬 [Adaptive Threat Detection for Cloud CI/CD Pipelines](https://github.com/shifat-ahmed-cs/Adaptive-Threat-Detection)
 > Undergraduate thesis research. Investigated a hybrid dual-branch deep learning threat detection architecture combining CNN-based static Windows PE analysis with BiLSTM dynamic API-call sequence modeling. Achieves **99.33% classification accuracy** and **100.00% recall** on hardened test benchmarks.
 > `PyTorch` `Deep Learning` `CNN` `BiLSTM` `Malware Analysis` `CI/CD Security`
 
-#### 🎯 [AI-Toolkit: Heuristic Pathfinding & Adversarial Game AI](https://github.com/black-panda-42/AI-Toolkit-AStar-Minimax-Reasoning)
+#### 🎯 [AI-Toolkit: Heuristic Pathfinding & Adversarial Game AI](https://github.com/shifat-ahmed-cs/AI-Toolkit-AStar-Minimax-Reasoning)
 > Heuristic $A^*$ grid pathfinding with Manhattan distances alongside an adversarial game agent implementing Minimax with Alpha-Beta Pruning for optimal decision trees.
 > `Python` `A* Pathfinding` `Minimax` `Alpha-Beta Pruning` `Game AI`
 
@@ -98,19 +98,19 @@ Operating System Kernels ·  Database Storage Engines (B+ Trees)·  Network Prot
 
 ### 🖥️ Systems, Architecture & Compilers
 
-#### 💻 [RISCV-Sim: 32-bit RV32I Processor & L1 Cache](https://github.com/black-panda-42/RISCV-Sim-RV32I-CPU-Cache-Emulator)
+#### 💻 [RISCV-Sim: 32-bit RV32I Processor & L1 Cache](https://github.com/shifat-ahmed-cs/RISCV-Sim-RV32I-CPU-Cache-Emulator)
 > Hardware emulator modeling a 32-bit RISC-V RV32I CPU core with 32 registers, program counter, ALU, assembly instruction decoding, and a **2-way set-associative L1 cache** with hit/miss telemetry.
 > `Python` `RISC-V` `Computer Architecture` `Cache Simulation` `Assembly`
 
-#### ⚙️ [MiniLang: Complete Compiler Pipeline & AST Interpreter](https://github.com/black-panda-42/MiniLang-Compiler-AST-Interpreter)
+#### ⚙️ [MiniLang: Complete Compiler Pipeline & AST Interpreter](https://github.com/shifat-ahmed-cs/MiniLang-Compiler-AST-Interpreter)
 > End-to-end programming language pipeline: regex-based lexical analyzer, recursive-descent Abstract Syntax Tree (AST) parser, symbol table scope manager, and tree-walking runtime evaluator.
 > `Python` `Compiler Design` `Lexer` `AST Parser` `Scope Resolution` `Interpreter`
 
-#### 🧵 [MiniOS: Kernel Scheduler, Deadlock & Paging Engine](https://github.com/black-panda-42/MiniOS-Kernel-Scheduler-Deadlock-Engine)
+#### 🧵 [MiniOS: Kernel Scheduler, Deadlock & Paging Engine](https://github.com/shifat-ahmed-cs/MiniOS-Kernel-Scheduler-Deadlock-Engine)
 > Operating system kernel concepts laboratory: preemptive Round-Robin CPU scheduling with real-time Gantt tracking, Banker's Deadlock Avoidance algorithm, and FIFO/LRU page replacement.
 > `Python` `Operating Systems` `Process Scheduling` `Banker's Algorithm` `Paging`
 
-#### 🗄️ [MiniDB: Relational Storage Engine with B+ Tree Indexing](https://github.com/black-panda-42/MiniDB-Relational-BTree-Database-Engine)
+#### 🗄️ [MiniDB: Relational Storage Engine with B+ Tree Indexing](https://github.com/shifat-ahmed-cs/MiniDB-Relational-BTree-Database-Engine)
 > Relational database storage engine implementing a from-scratch $M$-order **B+ Tree index** supporting $O(\log N)$ point lookups, dynamic node splitting, and disk-page range queries.
 > `Python` `Database Internals` `B+ Tree` `Storage Engine` `Query Planning`
 
@@ -118,11 +118,11 @@ Operating System Kernels ·  Database Storage Engines (B+ Trees)·  Network Prot
 
 ### 🎮 Computer Graphics & Applications
 
-#### 🦅 [PyRenderer: Software Graphics Engine & Playable 3D Flight Game](https://github.com/black-panda-42/PyRenderer-3D-Bird-Runner-Game)
+#### 🦅 [PyRenderer: Software Graphics Engine & Playable 3D Flight Game](https://github.com/shifat-ahmed-cs/PyRenderer-3D-Bird-Runner-Game)
 > Mathematical 2D/3D software graphics pipeline (*integer Bresenham, Midpoint Circle, Cohen-Sutherland clipping, Phong lighting*) paired with a **real-time 60 FPS 3-lane 3D perspective Bird Runner game** featuring lateral interpolation, approaching monolith obstacles, 3 hearts, collectible coins, and invincibility shield artifacts.
 > `Python` `Computer Graphics` `3D Perspective` `Rasterization` `Game Physics` `Tkinter`
 
-#### 📋 [TaskFlow: Enterprise Agile Kanban Lifecycle System](https://github.com/black-panda-42/TaskFlow-Agile-Kanban-Clean-Architecture)
+#### 📋 [TaskFlow: Enterprise Agile Kanban Lifecycle System](https://github.com/shifat-ahmed-cs/TaskFlow-Agile-Kanban-Clean-Architecture)
 > Production-grade task lifecycle system architected using Clean Architecture and the Repository Pattern, featuring strict status state machines, audit trails, and sprint velocity metrics.
 > `Python` `Clean Architecture` `Design Patterns` `Agile Kanban` `Enterprise Software`
 
@@ -134,10 +134,10 @@ A comprehensive collection of 26 from-scratch software systems covering the core
 
 | Domain | Highlight Repositories |
 |:---|:---|
-| **Foundations & Algorithms** | [**PyFinance**](https://github.com/black-panda-42/PyFinance-Personal-Wealth-Engine) · [**LibraryOS**](https://github.com/black-panda-42/LibraryOS-Enterprise-Management-System) · [**DSViz**](https://github.com/black-panda-42/DSViz-Core-Data-Structures-Engine) · [**AlgoForge**](https://github.com/black-panda-42/AlgoForge-Advanced-Algorithm-Suite) · [**DiscreteLab**](https://github.com/black-panda-42/DiscreteLab-SAT-Solver-Cryptosystem) |
-| **Hardware & Electronics** | [**RISCV-Sim**](https://github.com/black-panda-42/RISCV-Sim-RV32I-CPU-Cache-Emulator) · [**8085Emu**](https://github.com/black-panda-42/8085Emu-Intel-Microprocessor-Simulator) · [**PyCircuit**](https://github.com/black-panda-42/PyCircuit-MNA-Circuit-Simulator) · [**SemiSim**](https://github.com/black-panda-42/SemiSim-Semiconductor-Device-Physics) · [**LogiPy**](https://github.com/black-panda-42/LogiPy-Logic-Synthesizer-4Bit-ALU) |
-| **Systems & Networks** | [**MiniOS**](https://github.com/black-panda-42/MiniOS-Kernel-Scheduler-Deadlock-Engine) · [**MiniDB**](https://github.com/black-panda-42/MiniDB-Relational-BTree-Database-Engine) · [**NetSim**](https://github.com/black-panda-42/NetSim-TCP-Reno-Routing-Simulator) · [**DataComm**](https://github.com/black-panda-42/DataComm-Signal-Encoding-Hamming-SECDED) · [**IoTDash**](https://github.com/black-panda-42/IoTDash-Embedded-UART-I2C-Kalman-Filter) |
-| **Compilers & Applied AI** | [**MiniLang**](https://github.com/black-panda-42/MiniLang-Compiler-AST-Interpreter) · [**Adaptive Threat Detection**](https://github.com/black-panda-42/Adaptive-Threat-Detection) · [**AI-Toolkit**](https://github.com/black-panda-42/AI-Toolkit-AStar-Minimax-Reasoning) · [**PyRenderer 3D Game**](https://github.com/black-panda-42/PyRenderer-3D-Bird-Runner-Game) · [**RoboSim**](https://github.com/black-panda-42/RoboSim-Kinematics-Mobile-Robot-Simulator) |
+| **Foundations & Algorithms** | [**PyFinance**](https://github.com/shifat-ahmed-cs/PyFinance-Personal-Wealth-Engine) · [**LibraryOS**](https://github.com/shifat-ahmed-cs/LibraryOS-Enterprise-Management-System) · [**DSViz**](https://github.com/shifat-ahmed-cs/DSViz-Core-Data-Structures-Engine) · [**AlgoForge**](https://github.com/shifat-ahmed-cs/AlgoForge-Advanced-Algorithm-Suite) · [**DiscreteLab**](https://github.com/shifat-ahmed-cs/DiscreteLab-SAT-Solver-Cryptosystem) |
+| **Hardware & Electronics** | [**RISCV-Sim**](https://github.com/shifat-ahmed-cs/RISCV-Sim-RV32I-CPU-Cache-Emulator) · [**8085Emu**](https://github.com/shifat-ahmed-cs/8085Emu-Intel-Microprocessor-Simulator) · [**PyCircuit**](https://github.com/shifat-ahmed-cs/PyCircuit-MNA-Circuit-Simulator) · [**SemiSim**](https://github.com/shifat-ahmed-cs/SemiSim-Semiconductor-Device-Physics) · [**LogiPy**](https://github.com/shifat-ahmed-cs/LogiPy-Logic-Synthesizer-4Bit-ALU) |
+| **Systems & Networks** | [**MiniOS**](https://github.com/shifat-ahmed-cs/MiniOS-Kernel-Scheduler-Deadlock-Engine) · [**MiniDB**](https://github.com/shifat-ahmed-cs/MiniDB-Relational-BTree-Database-Engine) · [**NetSim**](https://github.com/shifat-ahmed-cs/NetSim-TCP-Reno-Routing-Simulator) · [**DataComm**](https://github.com/shifat-ahmed-cs/DataComm-Signal-Encoding-Hamming-SECDED) · [**IoTDash**](https://github.com/shifat-ahmed-cs/IoTDash-Embedded-UART-I2C-Kalman-Filter) |
+| **Compilers & Applied AI** | [**MiniLang**](https://github.com/shifat-ahmed-cs/MiniLang-Compiler-AST-Interpreter) · [**Adaptive Threat Detection**](https://github.com/shifat-ahmed-cs/Adaptive-Threat-Detection) · [**AI-Toolkit**](https://github.com/shifat-ahmed-cs/AI-Toolkit-AStar-Minimax-Reasoning) · [**PyRenderer 3D Game**](https://github.com/shifat-ahmed-cs/PyRenderer-3D-Bird-Runner-Game) · [**RoboSim**](https://github.com/shifat-ahmed-cs/RoboSim-Kinematics-Mobile-Robot-Simulator) |
 
 ---
 
@@ -145,8 +145,8 @@ A comprehensive collection of 26 from-scratch software systems covering the core
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=black-panda-42&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-panda-42&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shifat-ahmed-cs&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-ahmed-cs&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
