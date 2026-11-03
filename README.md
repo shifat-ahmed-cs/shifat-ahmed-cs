@@ -11,7 +11,6 @@
 <!-- Contact & Social Badges -->
 [![Email](https://img.shields.io/badge/shifat.ahmed%40g.bracu.ac.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifat.ahmed@g.bracu.ac.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifat-ahmed-a36ab3448/)
-[![GitHub](https://img.shields.io/badge/GitHub-Shifat%20Ahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shifat-ahmed-cs)
 
 </div>
 
