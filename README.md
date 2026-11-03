@@ -22,7 +22,8 @@ I am a senior Computer Science and Engineering student at **BRAC University** (C
 
 Rather than relying purely on third-party black-box libraries, I specialize in building computing engines from foundational mathematical principles—ranging from **dual-branch malware detection neural networks** to **32-bit RISC-V CPU emulators**, **B+ Tree database storage engines**, and **3D software renderers**.
 
-- 🎓 **BSc in Computer Science & Engineering**, BRAC University (2022–2026)
+- 🎓 **BSc in Computer Science & Engineering**, BRAC University (2022–2026, CGPA: 3.30/4.00)
+- 🏅 **Academic Foundation:** HSC: **GPA 5.00/5.00** | SSC: **GPA 5.00/5.00** (Science)
 - 🔬 **Undergraduate Thesis:** Adaptive Threat Detection for Cloud CI/CD Pipelines combining CNN static binary analysis with BiLSTM behavioral sequence modeling (**99.33% accuracy, 100% recall**)
 - 🛠️ **Open Source Systems:** Architected and open-sourced **26 production-grade computer science systems** spanning compilers, CPU emulators, operating systems, and graphics
 - 🏫 **Graduate Goals:** Actively preparing for **MS / PhD programs in Computer Science** in the United States
